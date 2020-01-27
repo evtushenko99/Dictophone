@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dictophone</string>
+    <string name="start_recording">Start recording </string>
+    <string name="pause_recording">pause</string>
+    <string name="stop_recording">stop</string>
+    <string name="notification_channel_name">Notification channel name</string>
+    <string name="notification_channel_description">Notification channel description</string>
+    <string name="recorder_service_content_title">Recorder</string>
+    <string name="un_bind_record">UnBind</string>
+</resources>
